@@ -56,7 +56,7 @@ It doesn't care about those going into the Inner Circles; many people will come 
 		- Scrollstore
 		- Most notable with the widest selection - but a snitch if you're a necromancer
 	- The Spellscroltorium 
-		- Scrollstore 
+		- [[Spellscrolltorium|The Spellscrolltorium]]
 			- Can only browse if you offer a scroll.
 			- Has odd and unique spells.
 	- A Caster's Best Friend
@@ -69,6 +69,8 @@ It doesn't care about those going into the Inner Circles; many people will come 
 		- Troubles 
 	- Darn It
 		- Tailor 
+	- [[Soothing Spirits]]
+		- Does teas, herbs, potions of all sorts.
 	- Lixers' Lotions and Potions
 		- Potion Store
 		- Run by Lixer, a rat of a man.
