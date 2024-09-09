@@ -1,0 +1,5 @@
+- born 60 years before the keep was built 
+- born to a long line of valhursts? (family) 
+- nominated to baron around 30 years old 
+- lived into the upper area, then to the core when he was baron 
+- Relevant titles: Baron, honorary degree from Wyvernbright but never actually attended, just did some research there

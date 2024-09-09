@@ -1,0 +1,1 @@
+The overgrown part of the outer ring on the eastern side - for some reason the plants grow more prominently here. Despite government, Greenwalker and independent effort, nobody has been able to get it under control. While technically able to be passed through, it has both high rates of crime and monsters that make doing anything but sticking to the main road a terrible mistake.
