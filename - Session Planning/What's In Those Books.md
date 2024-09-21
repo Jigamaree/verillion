@@ -1,4 +1,4 @@
-Arinae's Stuff:
+rinae's Stuff:
 
 - "The Architects of Fangdor Keep: The Culprits of Honshinu's Biggest Travesty"
 	- Looks into the Big Four:

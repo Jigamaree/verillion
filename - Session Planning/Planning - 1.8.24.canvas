@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c1aa02ae91568710","type":"text","text":"Belgar (Prep)\n\n- Prep the liquid that will give Ke'nan temporary etherealsight \n\t- Uses the poison of Phasespiders, the blood of a Catoblepas and dried Sunflower petals. \n- Will go out and buy 3x *Oil of Sharpness*.","x":-680,"y":-1160,"width":250,"height":580},
+		{"id":"a0c90656b0006ca6","type":"text","text":"Vrek (Prep)\n\n- Will tallk to Eerie and Carrie re: the plan to rescue the slaves.\n- ","x":-400,"y":-1165,"width":250,"height":585},
+		{"id":"8916643612f377d6","type":"text","text":"Jayson (Prep\n- Go out in the evening w/ euridyce to enjoy the snow\n- Will bring the Rotblade\n\t- It hasn't said anything, but Jayson's pretty sure itd be unforgivable ","x":-120,"y":-1165,"width":250,"height":585},
+		{"id":"d3fe37ebb1b06098","x":-680,"y":-560,"width":250,"height":420,"type":"text","text":"the dragon soars at the front, the cat is the laziest save one, the buck charges behind scaled tail, the fox cunning sit on blackened nose, the rhino brings up the rear, antlers stick together, fur in first, horned in last, and the wolf is as welcome as always.\n\nfox, dragon, reindeer,  moose, tiger, rhino\nno wolf"},
+		{"id":"d78bedb1a2c5d7b4","x":-400,"y":-560,"width":250,"height":420,"type":"text","text":"dGhlIGRyYWdvbiBzb2FycyBhdCB0aGUgZnJvbnQsIHRoZSBjYXQgaXMgdGhlIGxhemllc3Qgc2F2ZSBvbmUsIHRoZSBidWNrIGNoYXJnZXMgYmVoaW5kIHNjYWxlZCB0YWlsLCB0aGUgZm94IGN1bm5pbmcgc2l0IG9uIGJsYWNrZW5lZCBub3NlLCB0aGUgcmhpbm8gYnJpbmdzIHVwIHRoZSByZWFyLCBhbnRsZXJzIHN0aWNrIHRvZ2V0aGVyLCBmdXIgaW4gZmlyc3QsIGhvcm5lZCBpbiBsYXN0LCBhbmQgdGhlIHdvbGYgaXMgYXMgd2VsY29tZSBhcyBhbHdheXMu"}
+	],
+	"edges":[]
+}

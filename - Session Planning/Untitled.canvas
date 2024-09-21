@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b664f53bc86c9900","type":"text","text":"The Bathhouse\n\n- Looks like this tunnel was flooded by the bathhouse overflowing\n- The water steams, despite being just a little too cold for comfort.\n- Brackets in the wall for torches, empty. The window has been bricked up.\n- The walls are strangely clear of algae.\n- If the party turns their backs on any of the statues, they disappear.\n","x":-240,"y":-210,"width":260,"height":410},
+		{"id":"3ca0147bb7c81d31","type":"text","text":"IDEally target Ragna, Jayson, or Vrek\n\nRagna\n- Seems more fearless than usual\n- **Your scarf feels like its choking you - remove it.**\n\nRoque:\n- **Walks with the sunblade off.**\n\nJayson\n- **Keeps the helmet on**\n- Quiet, serious.\n\nVrek \n- **Will attempt to get back.**\n","x":60,"y":-360,"width":300,"height":600},
+		{"id":"96ca09811613a80f","type":"text","text":"POSESSION:\n\n*As you lag behind the party, you feel a cold touch sink into your body.*","x":65,"y":-640,"width":250,"height":230},
+		{"id":"29637cb40f50bb64","type":"text","text":"Changing Room\n\n- Can hear the distant sound of froghemeth. (PP 19)\n- Heavy doors will attempt to separate the party - first chance for possession.","x":-560,"y":-210,"width":250,"height":290},
+		{"id":"e30c0e65f1daece3","type":"text","text":"Hallway\n","x":-860,"y":-210,"width":250,"height":118},
+		{"id":"4f4f6addead537ca","type":"text","text":"Corner Guard Tower\n\n*Amongst the fallen stone and rusted weaponry are telltale slime trails - a frogemeth has nested here.*\n- A slimy clutch of eggs lies in the botton left\n- The momma is defending her nest.","x":-560,"y":-560,"width":250,"height":260},
+		{"id":"4378381f9a20480d","type":"text","text":"Sitting Room\n\n*This appears to be an old sitting room - used to be, anyway. Large rocks cluster about the floor, and snow covers the few things that remain, continuing to rot them away.*","x":-860,"y":-560,"width":250,"height":260},
+		{"id":"c430f58110154306","x":-860,"y":-35,"width":250,"height":115,"type":"text","text":"Gardener's Bedroom\n\n- Blocked by weeds outside: NOISY to remove.\n- A dusty unkempt room; the last people to come through here did so a long time ago.\n- Can find a **Staffkeeper's Charm** here that allows access through charmed doors."},
+		{"id":"140f5f8288823a80","x":380,"y":-640,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1d1640fdd2827f59","fromNode":"b664f53bc86c9900","fromSide":"bottom","toNode":"29637cb40f50bb64","toSide":"top"},
+		{"id":"f117cdd5b3b0f87f","fromNode":"e30c0e65f1daece3","fromSide":"bottom","toNode":"29637cb40f50bb64","toSide":"left"},
+		{"id":"8df44854bea9dda0","fromNode":"e30c0e65f1daece3","fromSide":"top","toNode":"4f4f6addead537ca","toSide":"bottom"},
+		{"id":"be072a31b3cf8fb5","fromNode":"e30c0e65f1daece3","fromSide":"top","toNode":"4378381f9a20480d","toSide":"bottom"},
+		{"id":"cdbb9339d95a6e28","fromNode":"c430f58110154306","fromSide":"top","toNode":"e30c0e65f1daece3","toSide":"bottom"},
+		{"id":"f667bd2f5bb4443b","fromNode":"96ca09811613a80f","fromSide":"bottom","toNode":"3ca0147bb7c81d31","toSide":"top"}
+	]
+}
